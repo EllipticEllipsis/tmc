@@ -4,8 +4,6 @@
 #include "random.h"
 #include "functions.h"
 
-extern void sub_080A2CC0(Entity*, Entity**, u16*);
-
 extern u16 gUnk_08123318[];
 
 void LilypadSmall(Entity* this) {

@@ -14,7 +14,6 @@ extern void sub_0800449C(Entity*, u32);
 extern void sub_0803CE14(Entity*);
 extern void sub_0803CE3C(Entity*);
 extern void sub_08079D84(void);
-extern void sub_080A2CC0(Entity*, Entity**, u16*);
 
 void LakituCloud(Entity* this) {
     gUnk_080D0418[GetNextFunction(this)](this);

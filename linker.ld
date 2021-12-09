@@ -418,7 +418,7 @@ SECTIONS {
         src/enemy/keaton.o(.text);
         asm/crow.o(.text);
         asm/mulldozer.o(.text);
-        asm/bombarossa.o(.text);
+        src/enemy/bombarossa.o(.text);
         src/enemy/wisp.o(.text);
         asm/spinyBeetle.o(.text);
         src/enemy/mazaalHead.o(.text);
@@ -1091,7 +1091,7 @@ SECTIONS {
         data/animations/enemy/crow.o(.rodata);
         data/const/enemy/mulldozer.o(.rodata);
         data/animations/enemy/mulldozer.o(.rodata);
-        data/const/enemy/bombarossa.o(.rodata);
+        src/enemy/bombarossa.o(.rodata);
         data/animations/enemy/bombarossa.o(.rodata);
         data/const/enemy/wisp.o(.rodata);
         data/animations/enemy/wisp.o(.rodata);

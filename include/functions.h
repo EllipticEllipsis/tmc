@@ -106,6 +106,7 @@ extern s32 sub_0807887C(Entity*, u32, u32);
 extern s32 sub_08078904();
 extern void sub_0805E5A8(void);
 extern void UpdateEntities(void);
+extern void sub_080A2CC0(Entity*, Entity**, u16*);
 extern void sub_080AD9B0(void);
 extern void sub_080AD918(void);
 extern void sub_0801E104(void);
