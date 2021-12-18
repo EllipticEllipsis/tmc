@@ -12,7 +12,8 @@ void sub_08033448(Entity*);
 void sub_0804A7D4(Entity*);
 void nullsub_158(Entity*);
 
-void (*const gUnk_080CEB38[])(Entity*) = {
+// gUnk_080CEB38
+void (*const gBombarossaFunctions[])(Entity*) = {
     sub_080333D4, sub_08033448, sub_08001324, sub_0804A7D4, sub_08001242, nullsub_158,
 };
 
@@ -21,7 +22,7 @@ const s8 gUnk_080CEB50[] = {
 };
 
 void Bombarossa(Entity* this) {
-    gUnk_080CEB38[GetNextFunction(this)](this);
+    gBombarossaFunctions[GetNextFunction(this)](this);
 }
 
 void sub_080333D4(Entity* this) {
@@ -67,7 +68,7 @@ void sub_08033448(Entity* this) {
             break;
     }
 
-    sub_0804AA30(this, gUnk_080CEB38);
+    sub_0804AA30(this, gBombarossaFunctions);
 }
 
 void nullsub_158(Entity* this) {
