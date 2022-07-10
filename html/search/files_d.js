@@ -12,5 +12,6 @@ var searchData=
   ['npc58_2ec_9',['npc58.c',['../npc58_8c.html',1,'']]],
   ['npc9_2ec_10',['npc9.c',['../npc9_8c.html',1,'']]],
   ['npcdefinitions_2ec_11',['npcDefinitions.c',['../npcDefinitions_8c.html',1,'']]],
-  ['npcutils_2ec_12',['npcUtils.c',['../npcUtils_8c.html',1,'']]]
+  ['npcfunctions_2ec_12',['npcFunctions.c',['../npcFunctions_8c.html',1,'']]],
+  ['npcutils_2ec_13',['npcUtils.c',['../npcUtils_8c.html',1,'']]]
 ];

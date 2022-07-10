@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['key_5fand_5fintr_0',['KEY_AND_INTR',['../io__reg_8h.html#a8cedd301e6514b83ae39d01c439b4ea5',1,'io_reg.h']]],
-  ['key_5fintr_5fenable_1',['KEY_INTR_ENABLE',['../io__reg_8h.html#a918843ac4847f9e3f68bac25f2b46216',1,'io_reg.h']]],
-  ['key_5for_5fintr_2',['KEY_OR_INTR',['../io__reg_8h.html#aed24ae230e350c88d04bcb2530259c2d',1,'io_reg.h']]],
-  ['keys_5fmask_3',['KEYS_MASK',['../io__reg_8h.html#abef0d307df2b5c486a33bdfe5c08cd3b',1,'io_reg.h']]]
+  ['joy_5fexcl_5fdpad_0',['JOY_EXCL_DPAD',['../io__reg_8h.html#abc24815a60cb7eb32d9fcb7805127206',1,'io_reg.h']]],
+  ['jump_5fspeed_5ffwd_1',['JUMP_SPEED_FWD',['../player_8c.html#ac6cf301e2e1800ce2cece3d7fe0c3eae',1,'player.c']]],
+  ['jump_5fspeed_5fhole_5ffwd_2',['JUMP_SPEED_HOLE_FWD',['../player_8c.html#a9768e3932ab39ccf564e069d54ef4ace',1,'player.c']]],
+  ['jump_5fspeed_5fhole_5fz_3',['JUMP_SPEED_HOLE_Z',['../player_8c.html#a886a8e36b40fa2f786c20a2ded61b3d0',1,'player.c']]]
 ];

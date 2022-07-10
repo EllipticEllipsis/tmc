@@ -1,52 +1,52 @@
 <map id="include/droptables.h" name="include/droptables.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5937,5,6075,32"/>
-<area shape="rect" id="node2" href="$room_8h.html" title=" " alt="" coords="3142,80,3249,107"/>
-<area shape="rect" id="node10" href="$game_8c.html" title="Game task." alt="" coords="5705,229,5792,256"/>
-<area shape="rect" id="node50" href="$droptables_8c.html" title=" " alt="" coords="6043,80,6158,107"/>
-<area shape="rect" id="node3" href="$functions_8h.html" title=" " alt="" coords="1987,155,2118,181"/>
-<area shape="rect" id="node4" href="$common_8c.html" title=" " alt="" coords="4157,229,4261,256"/>
-<area shape="rect" id="node5" href="$coord_8c.html" title=" " alt="" coords="1548,229,1635,256"/>
-<area shape="rect" id="node6" href="$bladeTrap_8c.html" title="Blade Trap enemy." alt="" coords="1659,229,1812,256"/>
-<area shape="rect" id="node7" href="$bombarossa_8c.html" title=" " alt="" coords="2400,229,2567,256"/>
-<area shape="rect" id="node8" href="$flyingPot_8c.html" title="Flying pot enemy." alt="" coords="1836,229,1981,256"/>
-<area shape="rect" id="node9" href="$gyorgChild_8c.html" title=" " alt="" coords="5,229,161,256"/>
-<area shape="rect" id="node11" href="$manager10_8c.html" title=" " alt="" coords="185,229,357,256"/>
-<area shape="rect" id="node12" href="$manager12_8c.html" title=" " alt="" coords="381,229,553,256"/>
-<area shape="rect" id="node13" href="$manager1A_8c.html" title=" " alt="" coords="2005,229,2180,256"/>
-<area shape="rect" id="node14" href="$manager21_8c.html" title=" " alt="" coords="2204,229,2376,256"/>
-<area shape="rect" id="node15" href="$manager22_8c.html" title=" " alt="" coords="4285,229,4457,256"/>
-<area shape="rect" id="node16" href="$manager23_8c.html" title=" " alt="" coords="2591,229,2763,256"/>
-<area shape="rect" id="node17" href="$manager25_8c.html" title=" " alt="" coords="577,229,749,256"/>
-<area shape="rect" id="node18" href="$manager2B_8c.html" title=" " alt="" coords="2787,229,2961,256"/>
-<area shape="rect" id="node19" href="$manager2F_8c.html" title=" " alt="" coords="774,229,947,256"/>
-<area shape="rect" id="node20" href="$manager3_8c.html" title=" " alt="" coords="2986,229,3151,256"/>
-<area shape="rect" id="node21" href="$manager32_8c.html" title=" " alt="" coords="972,229,1144,256"/>
-<area shape="rect" id="node22" href="$manager4_8c.html" title=" " alt="" coords="1169,229,1334,256"/>
-<area shape="rect" id="node23" href="$manager9_8c.html" title=" " alt="" coords="1358,229,1523,256"/>
-<area shape="rect" id="node24" href="$managerC_8c.html" title=" " alt="" coords="4481,229,4648,256"/>
-<area shape="rect" id="node25" href="$main_8h.html" title=" " alt="" coords="3411,155,3516,181"/>
-<area shape="rect" id="node26" href="$affine_8c.html" title=" " alt="" coords="4672,229,4756,256"/>
-<area shape="rect" id="node27" href="$color_8c.html" title=" " alt="" coords="4781,229,4863,256"/>
-<area shape="rect" id="node28" href="$manager14_8c.html" title=" " alt="" coords="5096,229,5268,256"/>
-<area shape="rect" id="node29" href="$npc_8h.html" title=" " alt="" coords="6054,229,6153,256"/>
-<area shape="rect" id="node30" href="$object_8h.html" title=" " alt="" coords="2818,155,2930,181"/>
-<area shape="rect" id="node31" href="$manager13_8c.html" title=" " alt="" coords="3176,229,3348,256"/>
-<area shape="rect" id="node32" href="$manager17_8c.html" title=" " alt="" coords="3372,229,3544,256"/>
-<area shape="rect" id="node33" href="$manager26_8c.html" title=" " alt="" coords="3568,229,3740,256"/>
-<area shape="rect" id="node34" href="$manager33_8c.html" title=" " alt="" coords="3764,229,3936,256"/>
-<area shape="rect" id="node35" href="$manager35_8c.html" title=" " alt="" coords="3960,229,4132,256"/>
-<area shape="rect" id="node36" href="$save_8h.html" title=" " alt="" coords="6044,155,6149,181"/>
-<area shape="rect" id="node37" href="$flags_8c.html" title=" " alt="" coords="6191,229,6272,256"/>
-<area shape="rect" id="node38" href="$code__0805EC04_8c.html" title=" " alt="" coords="3592,155,3740,181"/>
-<area shape="rect" id="node39" href="$gyorgFemaleMouth_8c.html" title=" " alt="" coords="3764,155,3971,181"/>
-<area shape="rect" id="node40" href="$kinstone_8c.html" title=" " alt="" coords="3995,155,4097,181"/>
-<area shape="rect" id="node41" href="$manager19_8c.html" title=" " alt="" coords="4121,155,4293,181"/>
-<area shape="rect" id="node42" href="$manager1C_8c.html" title=" " alt="" coords="4317,155,4492,181"/>
-<area shape="rect" id="node43" href="$manager1D_8c.html" title=" " alt="" coords="4516,155,4691,181"/>
-<area shape="rect" id="node44" href="$manager1F_8c.html" title=" " alt="" coords="4715,155,4889,181"/>
-<area shape="rect" id="node45" href="$manager20_8c.html" title=" " alt="" coords="4913,155,5085,181"/>
-<area shape="rect" id="node46" href="$manager28_8c.html" title=" " alt="" coords="5109,155,5281,181"/>
-<area shape="rect" id="node47" href="$manager2A_8c.html" title=" " alt="" coords="5305,155,5480,181"/>
-<area shape="rect" id="node48" href="$manager38_8c.html" title=" " alt="" coords="5504,155,5676,181"/>
-<area shape="rect" id="node49" href="$managerB_8c.html" title=" " alt="" coords="5700,155,5867,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="3155,5,3292,32"/>
+<area shape="rect" id="node2" href="$room_8h.html" title=" " alt="" coords="3170,80,3277,107"/>
+<area shape="rect" id="node8" href="$game_8c.html" title="Game task." alt="" coords="3316,251,3403,278"/>
+<area shape="rect" id="node50" href="$droptables_8c.html" title=" " alt="" coords="3301,80,3415,107"/>
+<area shape="rect" id="node3" href="$functions_8h.html" title=" " alt="" coords="1659,162,1790,189"/>
+<area shape="rect" id="node4" href="$code__08049DF4_8c.html" title=" " alt="" coords="1100,251,1248,278"/>
+<area shape="rect" id="node5" href="$common_8c.html" title=" " alt="" coords="1273,251,1377,278"/>
+<area shape="rect" id="node6" href="$flyingPot_8c.html" title="Flying pot enemy." alt="" coords="1652,251,1797,278"/>
+<area shape="rect" id="node7" href="$gyorgChild_8c.html" title=" " alt="" coords="5,251,161,278"/>
+<area shape="rect" id="node9" href="$angryStatueManager_8c.html" title="Manages the synchronized shooting and destruction of the AngryStatues." alt="" coords="1401,251,1627,278"/>
+<area shape="rect" id="node10" href="$diggingCaveEntranceManager_8c.html" title="Manages digging cave entrances." alt="" coords="185,244,405,285"/>
+<area shape="rect" id="node11" href="$entitySpawnManager_8c.html" title="Load a entity list when a flag is set." alt="" coords="430,251,659,278"/>
+<area shape="rect" id="node12" href="$flameManager_8c.html" title="Manages flame that can be ignited with the lamp." alt="" coords="683,251,873,278"/>
+<area shape="rect" id="node13" href="$holeManager_8c.html" title="Hole that you can fall into." alt="" coords="2472,251,2655,278"/>
+<area shape="rect" id="node14" href="$hyruleTownTilesetManager_8c.html" title="Swap tileset data in hyrule town depending on the position." alt="" coords="1822,244,2025,285"/>
+<area shape="rect" id="node15" href="$lightLevelSetManager_8c.html" title="Changes the light level when a flag is set." alt="" coords="2679,244,2853,285"/>
+<area shape="rect" id="node16" href="$lightManager_8c.html" title="Manages the light in dark rooms." alt="" coords="2049,251,2232,278"/>
+<area shape="rect" id="node17" href="$minishPortalManager_8c.html" title="Facilitates the usage of minish portals." alt="" coords="2878,244,3049,285"/>
+<area shape="rect" id="node18" href="$minishRaftersBackgroundManager_8c.html" title="Parallax background for minish rafters." alt="" coords="897,244,1075,285"/>
+<area shape="rect" id="node19" href="$minishSizedEntranceManager_8c.html" title="Spawns MINISH_SIZED_ENTRANCE at the locations in the room property super&#45;&gt;unk_0a when they are visibl..." alt="" coords="3073,244,3291,285"/>
+<area shape="rect" id="node20" href="$main_8h.html" title=" " alt="" coords="2245,162,2351,189"/>
+<area shape="rect" id="node21" href="$affine_8c.html" title=" " alt="" coords="2256,251,2340,278"/>
+<area shape="rect" id="node22" href="$color_8c.html" title=" " alt="" coords="2365,251,2447,278"/>
+<area shape="rect" id="node23" href="$npc_8h.html" title=" " alt="" coords="5559,251,5658,278"/>
+<area shape="rect" id="node24" href="$object_8h.html" title=" " alt="" coords="3121,162,3233,189"/>
+<area shape="rect" id="node25" href="$bladeTrap_8c.html" title="Blade Trap enemy." alt="" coords="3427,251,3580,278"/>
+<area shape="rect" id="node26" href="$bombarossa_8c.html" title=" " alt="" coords="3604,251,3771,278"/>
+<area shape="rect" id="node27" href="$dust_8c.html" title=" " alt="" coords="3795,251,3916,278"/>
+<area shape="rect" id="node28" href="$lakituCloud_8c.html" title="Lakitu Cloud enemy." alt="" coords="3941,251,4101,278"/>
+<area shape="rect" id="node29" href="$rupeeLike_8c.html" title="Rupee Like enemy." alt="" coords="6215,251,6368,278"/>
+<area shape="rect" id="node30" href="$cameraTargetManager_8c.html" title="Creates a camera target object when a flag is set." alt="" coords="4125,244,4303,285"/>
+<area shape="rect" id="node31" href="$fallingItemManager_8c.html" title="Item that is falling from the sky." alt="" coords="4327,251,4546,278"/>
+<area shape="rect" id="node32" href="$houseSignManager_8c.html" title="Keeps track in its bitfield of whether 0x10 x 0x10 rects at certain positions are on the screen." alt="" coords="4570,251,4789,278"/>
+<area shape="rect" id="node33" href="$hyruleTownBellManager_8c.html" title="Spawns the heart piece if the player jumps against the bell in Hyrule Town." alt="" coords="4813,244,4999,285"/>
+<area shape="rect" id="node34" href="$save_8h.html" title=" " alt="" coords="6239,162,6344,189"/>
+<area shape="rect" id="node35" href="$flags_8c.html" title=" " alt="" coords="6392,251,6473,278"/>
+<area shape="rect" id="node36" href="$code__08049CD4_8c.html" title=" " alt="" coords="3611,162,3761,189"/>
+<area shape="rect" id="node37" href="$code__0805EC04_8c.html" title=" " alt="" coords="3785,162,3933,189"/>
+<area shape="rect" id="node38" href="$gyorgFemaleMouth_8c.html" title=" " alt="" coords="3957,162,4164,189"/>
+<area shape="rect" id="node39" href="$peahat_8c.html" title="Peahat enemy." alt="" coords="4188,162,4323,189"/>
+<area shape="rect" id="node40" href="$rollobite_8c.html" title="Rollobite enemy." alt="" coords="4347,162,4489,189"/>
+<area shape="rect" id="node41" href="$slime_8c.html" title="Slime enemy." alt="" coords="4513,162,4640,189"/>
+<area shape="rect" id="node42" href="$torchTrap_8c.html" title=" " alt="" coords="4664,162,4815,189"/>
+<area shape="rect" id="node43" href="$kinstone_8c.html" title=" " alt="" coords="4839,162,4941,189"/>
+<area shape="rect" id="node44" href="$animatedBackgroundManager_8c.html" title="Set up bg3 for cloud tops, vaati2 and some beanstalks." alt="" coords="4965,155,5185,196"/>
+<area shape="rect" id="node45" href="$delayedEntityLoadManager_8c.html" title="Delayed entity loader." alt="" coords="5209,155,5384,196"/>
+<area shape="rect" id="node46" href="$destructibleTileObserveManager_8c.html" title="Sets a flag when a tile changes, e.g." alt="" coords="5409,155,5574,196"/>
+<area shape="rect" id="node47" href="$enemyInteractionManager_8c.html" title="Interaction between enemies." alt="" coords="5598,155,5795,196"/>
+<area shape="rect" id="node48" href="$fightManager_8c.html" title="Manages fights with multiple enemies." alt="" coords="5820,162,6003,189"/>
+<area shape="rect" id="node49" href="$floatingPlatformManager_8c.html" title="Spawns lists of floating platforms together." alt="" coords="6027,155,6215,196"/>
 </map>

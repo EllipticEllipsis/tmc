@@ -15,7 +15,7 @@ var searchData=
   ['none3_12',['none3',['../unionDroptable.html#a2d453ab377db4c02f53084d862cb9850',1,'Droptable']]],
   ['none4_13',['none4',['../unionDroptable.html#aa44a06aa9149177c9a482f5bcef20b36',1,'Droptable']]],
   ['none5_14',['none5',['../unionDroptable.html#af35d5fa0e071796844e23f75ace17582',1,'Droptable']]],
-  ['npc_5funk_15',['npc_unk',['../npc_8c.html#a3b786d327271b2a42530fb7b1187d613',1,'npc.c']]],
+  ['npc_5funk_15',['npc_unk',['../npcFunctions_8c.html#a3b786d327271b2a42530fb7b1187d613',1,'npcFunctions.c']]],
   ['ntracks_16',['nTracks',['../structMusicPlayer.html#a31c08f05e31b68de67ead515252a5919',1,'MusicPlayer']]],
   ['numgfxtiles_17',['numGfxTiles',['../structFrameGfxData.html#a042876ea11bc77f09629dabce2bb31c1',1,'FrameGfxData']]],
   ['numpalettes_18',['numPalettes',['../structPaletteGroup.html#a68d0c0050d4447cdf5a9c7de1ff582f2',1,'PaletteGroup']]],
